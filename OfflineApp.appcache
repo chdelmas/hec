@@ -75,27 +75,17 @@ nsb/nsbstyle.css
 256/ico_cube.png
 images/about_us.png
 https://jqwidgets.com/public/jqwidgets/styles/images/bg_blackpressed.png
-https://jqwidgets.com/public/jqwidgets/jqxbuttons.js
 https://jqwidgets.com/public/jqwidgets/styles/jqx.base.css
-https://jqwidgets.com/public/jqwidgets/jqxlistbox.js
 https://jqwidgets.com/public/jqwidgets/jqxtabs.js
 https://jqwidgets.com/public/jqwidgets/styles/jqx.classic.css
-https://jqwidgets.com/public/jqwidgets/styles/images/bg_blueenergy.png
 https://jqwidgets.com/public/jqwidgets/styles/images/close.png
-https://jqwidgets.com/public/jqwidgets/jqxcheckbox.js
 https://jqwidgets.com/public/jqwidgets/styles/images/bg_darkblue.png
 https://jqwidgets.com/public/jqwidgets/styles/images/bg_darkbluepressed.png
-https://jqwidgets.com/public/jqwidgets/jqxscrollbar.js
 https://jqwidgets.com/public/jqwidgets/styles/images/bg_black.png
-https://jqwidgets.com/public/jqwidgets/styles/images/check_black.png
 https://jqwidgets.com/public/jqwidgets/jqxcore.js
-https://jqwidgets.com/public/jqwidgets/styles/images/icon-right.png
-https://jqwidgets.com/public/jqwidgets/styles/images/icon-left.png
 https://jqwidgets.com/public/jqwidgets/styles/images/close_white.png
-https://jqwidgets.com/public/jqwidgets/styles/images/icon-up.png
-https://jqwidgets.com/public/jqwidgets/styles/images/icon-down.png
 
 NETWORK:
 *
 
-# buildtime: 1452266392.75
+# buildtime: 1452270973.9
